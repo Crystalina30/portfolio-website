@@ -298,6 +298,14 @@ body{
     padding:25px;
 }
 
+.project-tech{
+    color:#ea6ca7;
+    font-size:14px;
+    display:block;
+    margin-bottom:12px;
+    font-weight:500;
+}
+
 /* ==========================
    CONTACT
 ========================== */
